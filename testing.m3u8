@@ -10,6 +10,17 @@ http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp375/live-1.m3u8
 https://stream-03.sg1.dailymotion.com/sec(rDula8zIgjPdGJpc650XaLtiLmAo1UFtc65W0jv1q1pZnXpUDMuqk6n17pWAfQnZvK8_fn6-nDmv_PouWBjKaQ)/dm/3/x6qp375/live-4.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" tvg-name="TV3" group-title="Malaysia",TV3 
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png", group-title="MALAYSIA", TV1 SD
+http://supercharged.stream.my/live/ngrp:rtm-ch001.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png", group-title="MALAYSIA", TV2 SD
+http://supercharged.stream.my/live/ngrp:rtm-ch003.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv3.png", group-title="MALAYSIA", TV3 SD
+http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+BAJWA.
+#EXTINF: -1, SCTV5
+http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
+#EXTINF: -1, SCTV10
+rtmp://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD_3
 #EXTINF:-1,TV8
 http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
 #EXTINF:-1,TV9
