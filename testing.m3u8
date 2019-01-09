@@ -1,138 +1,78 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv1.png" tvg-name="TV1" group-title="Malaysia",TV1http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1447383501&myTokenPrefixhash=AS6HeBo1bEGLEOrI8C3wlQ1DMnnre5s4w2dw0iJLFU8=
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv1.png" tvg-name="TV1" group-title="Malaysia",TV1 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1447383501&myTokenPrefixhash=AS6HeBo1bEGLEOrI8C3wlQ1DMnnre5s4w2dw0iJLFU8=
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv2.png" tvg-name="TV2" group-title="Malaysia",TV2http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1447383550&myTokenPrefixhash=v5UV5PtKPuDDuep0OQkBG4RcoG6PtA8TzbE-Tz22nZQ=
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv2.png" tvg-name="TV2" group-title="Malaysia",TV2 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1447383550&myTokenPrefixhash=v5UV5PtKPuDDuep0OQkBG4RcoG6PtA8TzbE-Tz22nZQ=
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv3.png" tvg-name="TV3" group-title="Malaysia",TV3http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv3.png" tvg-name="TV3" group-title="Malaysia",TV3 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/ntv7.png" tvg-name="NTV7" group-title="Malaysia",NTV7http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/ntv7.png" tvg-name="NTV7" group-title="Malaysia",NTV7 http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/8tv.png" tvg-name="8TV" group-title="Malaysia",8TVhttp://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/8tv.png" tvg-name="8TV" group-title="Malaysia",8TV http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv9.png" tvg-name="TV9" group-title="Malaysia",TV9http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tv9.png" tvg-name="TV9" group-title="Malaysia",TV9 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tvi.png" tvg-name="TVi" group-title="Malaysia",TVihttp://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1447383576&myTokenPrefixhash=XKoRT1ec-z3uh6LOWz7P4p007myM_0_j50EkSPjrAN0=
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tvi.png" tvg-name="TVi" group-title="Malaysia",TVi http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1447383576&myTokenPrefixhash=XKoRT1ec-z3uh6LOWz7P4p007myM_0_j50EkSPjrAN0=
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/galaksi.png" tvg-name="MUZIK AKTIF" group-title="Malaysia",MUZIK AKTIFhttp://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1447383600&myTokenPrefixhash=Z1byR6tnMlsGSd4bGmMHXK3waY5Kh2mW8iKygOfr8W4=
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/galaksi.png" tvg-name="MUZIK AKTIF" group-title="Malaysia",MUZIK AKTIF http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1447383600&myTokenPrefixhash=Z1byR6tnMlsGSd4bGmMHXK3waY5Kh2mW8iKygOfr8W4=
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/alhijrah.png" tvg-name="TV Al-Hijrah" group-title="Malaysia",TV Al-Hijrahhttp://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/alhijrah.png" tvg-name="TV Al-Hijrah" group-title="Malaysia",TV Al-Hijrah http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
 
-#EXTINF:-1, RIAhttp://www.layarku.tv/media/riav6.m3u8
+#EXTINF:-1, RIA http://www.layarku.tv/media/riav6.m3u8
 
-#EXTINF:-1, KBS WORLDrtmp://118.97.183.196/jhos//kbs
+#EXTINF:-1, KBS WORLD rtmp://118.97.183.196/jhos//kbs
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/awani.png" tvg-name="AWANI" group-title="Malaysia",AWANIrtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/awani.png" tvg-name="AWANI" group-title="Malaysia",AWANI rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/awani.png" tvg-name="AWANI2" group-title="Malaysia",AWANI2
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/flag/az/my.png",MALAYSIA TV
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/flag/az/my.png" group-title="Malaysia",MALAYSIA TV
  
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png",TV1
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png" group-title="Malaysia",TV1
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch001.smil/chunklist_w1783764146_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9UEdpQ1VRNDZNOWpWaUc3Y2NkRlhXMFJJaU10M2QxenpqZkhTSF82V1pJYz0=.m3u8
  
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png",,TV2
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png" group-title="Malaysia",TV2
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch002.smil/chunklist_w1010690023_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9Zm5HQUZ3anhwajFES3Y3Zk53MGZ0V01jVUpCRThLQk9jMWdIaE55Ynl0RT0=.m3u8
  
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png",TV3
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" group-title="Malaysia",TV3 
 http://sg.layarku.tv:1935/edge/149_323_live/chunklist_w154676771.m3u8
  
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-7-my.png",NTV7
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-7-my.png" group-title="Malaysia",NTV7
 http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master002.m3u8
  
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8-tv-my.png",8TV
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8-tv-my.png" group-title="Malaysia",8TV
 http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8
  
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png",TV9
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png" group-title="Malaysia",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
  
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tv_alhijrah.png",AL-HIJRAH
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tv_alhijrah.png" group-title="Malaysia",AL-HIJRAH
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
  
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png",ASTRO RIA
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="Malaysia",ASTRO RIA
 http://penang.layarku.tv/edge/149_327_live/chunklist_w1095343200.m3u8
  
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_awani.png",ASTRO AWANI
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_awani.png" group-title="Malaysia",ASTRO AWANI
 rrtmp://cp160334.live.edgefcs.net/live/AstroAwani24x7_3@74937
  
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tvi_my.png",TVI
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tvi_my.png" group-title="Malaysia",TVI
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch003.smil/chunklist_w1793954041_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9TnpEanpxS1lkQnp6NzhoeWZIZTRaaGV2MXlrVHF1cVRtcWNMU0I5alNIQT0=.m3u8
  
 #EXTINF:0 tvg-logo="",MUSIK AKTIF
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch004.smil/chunklist_w373988419_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9cG1yUmtrLUpfUF9TVjNjYkR3Rm1mSzRvZzFKdnF4MlBwaVctbEpLSnQtVT0=.m3u8
  
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_parlimen_my.png",PARLIMEN TV
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_parlimen_my.png" group-title="Malaysia",PARLIMEN TV
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch007.smil/chunklist_w10647817_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9bVQ3blJLc1dSSGhrV2pPWFVLcWZkZUE1aGZUcHlvV2dQRUk0R0ZhUWhZYz0=.m3u8
  
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/num/1_news_my.png",1 NEWS
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/num/1_news_my.png" group-title="Malaysia",1 NEWS
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch006.smil/chunklist_w391643897_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9TmpVYkJvMi1ZODhVQm9vd29ZcVo5UVUwakRjbm9uM19WamZvUlY5UkE1cz0=.m3u8
  
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bernama_tv.png",BERNAMA TV
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bernama_tv.png" group-title="Malaysia",BERNAMA TV
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
  
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/mm/mara_tv_my.png",MARA TV
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/mm/mara_tv_my.png" group-title="Malaysia",MARA TV
 http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
-#EXTINF:-1 tvg-id="BBC One London" tvg-name="BBC One London" tvg-logo="https://s4.postimg.org/z61nj8qd9/Bbc_london_logo.jpg" group-title="BBC",BBC One London
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_london.m3u8
-#EXTINF:-1 tvg-id="BBC One Northern Ireland HD" tvg-name="BBC One Northern Ireland HD" tvg-logo="https://s3.postimg.org/ltztuojqr/6y_QROLCn_400x400.png" group-title="BBC",BBC One Northern Ireland HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_northern_ireland_hd.m3u8
-#EXTINF:-1 tvg-id="BBC One Scotland HD" tvg-name="BBC One Scotland HD" tvg-logo="https://s3.postimg.org/ltztuojqr/6y_QROLCn_400x400.png" group-title="BBC",BBC One Scotland HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_scotland_hd.m3u8
-#EXTINF:-1 tvg-id="BBC Two HD" tvg-name="BBC Two HD" tvg-logo="https://s3.postimg.org/3oa6ilk4j/BBC_Two_HD_svg.png" group-title="BBC",BBC Two HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8
-#EXTINF:-1 tvg-id="BBC Two Wales" tvg-name="BBC Two Wales" tvg-logo="https://s3.postimg.org/87e8w998z/BBC_Two_Wales_logo_svg.png" group-title="BBC",BBC Two Wales
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_wales_digital.m3u8
-#EXTINF:-1 tvg-id="BBC Two  Northen Ireland" tvg-name="BBC Two Northen Ireland" tvg-logo="https://s4.postimg.org/kkaws79e5/BBC_Two_Northern_Ireland_svg.png" group-title="BBC",BBC Two Northen Ireland
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_northern_ireland_digital.m3u8
-#EXTINF:-1 tvg-id="BBC Two Scotland" tvg-name="BBC Two Scotland" tvg-logo="https://s3.postimg.org/969t1ltyr/BBC_Two_Scotland_svg.png" group-title="BBC",BBC Two Scotland
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_scotland.m3u8
-#EXTINF:-1 tvg-id="BBC Four HD" tvg-name="BBC Four HD" tvg-logo="https://s3.postimg.org/odxup7toz/BBC_Four_HD_Logo_svg.png" group-title="BBC",BBC Four HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
-#EXTINF:-1 tvg-id="CBBC HD" tvg-name="CBBC HD" tvg-logo="https://s3.postimg.org/5rli5k0kj/CBBC_HD_svg.png" group-title="BBC",CBBC HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
-#EXTINF:-1 tvg-id="CBeebies HD" tvg-name="CBeebies HD" tvg-logo="https://s3.postimg.org/718r6aq9v/CBeebies_svg.png" group-title="BBC",CBeebies HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
-#EXTINF:-1 tvg-id="BBC News HD" tvg-name="BBC News HD" tvg-logo="https://s3.postimg.org/hxublo6hv/bbc_news_logo.png" group-title="BBC",BBC News HD
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
-#EXTINF:-1 tvg-id="BBC Parliament" tvg-name="BBC Parliament" tvg-logo="https://s3.postimg.org/r7up5r603/BBC_Parliament_Logo_svg.png" group-title="BBC",BBC Parliament
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8
-#EXTINF:-1 tvg-id="BBC ALBA" tvg-name="BBC ALBA" tvg-logo="https://s4.postimg.org/kne4o8bsd/1280px_BBC_Alba_svg.png" group-title="BBC",BBC ALBA
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_alba.m3u8
-#EXTINF:-1 tvg-id="S4C" tvg-name="S4C" tvg-logo="https://s4.postimg.org/gczb0pjod/S4_C_logo_2014_svg.png" group-title="BBC",S4C
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/s4cpbs.m3u8
-#EXTINF:-1 tvg-id="BBC One Cambridge" tvg-name="BBC One Cambridge" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One Cambridge
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_cambridge.m3u8
-#EXTINF:-1 tvg-id="BBC One North West" tvg-name="BBC One North West" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One North West
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_north_west.m3u8
-#EXTINF:-1 tvg-id="BBC One North East" tvg-name="BBC One North East" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One North East
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_north_east.m3u8
-#EXTINF:-1 tvg-id="BBC One South West" tvg-name="BBC One South West" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One South West
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_south_west.m3u8
-#EXTINF:-1 tvg-id="BBC One South East" tvg-name="BBC One South East" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One South East
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_south_east.m3u8
-#EXTINF:-1 tvg-id="BBC One South" tvg-name="BBC One South" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One South
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_south.m3u8
-#EXTINF:-1 tvg-id="BBC One East Yorkshire" tvg-name="BBC One East Yorkshire" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One East Yorkshire
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_yorkshire.m3u8
-#EXTINF:-1 tvg-id="BBC One Yorks" tvg-name="BBC One Yorks" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One Yorks
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_yorks.m3u8
-#EXTINF:-1 tvg-id="BBC One West" tvg-name="BBC One West" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One West
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_west.m3u8
-#EXTINF:-1 tvg-id="BBC One South East" tvg-name="BBC One South East" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One South East
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_south_east.m3u8
-#EXTINF:-1 tvg-id="BBC One South East" tvg-name="BBC One South" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One South
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_south.m3u8
-#EXTINF:-1 tvg-id="BBC One Oxford" tvg-name="BBC One Oxford" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One Oxford
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_oxford.m3u8
-#EXTINF:-1 tvg-id="BBC One East Midlands" tvg-name="BBC One East Midlands" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One East Midlands
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8
-#EXTINF:-1 tvg-id="BBC One East" tvg-name="BBC One East" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One East
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east.m3u8
-#EXTINF:-1 tvg-id="BBC One Channel Islands" tvg-name="BBC One Channel Islands" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One Channel Islands
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_channel_islands.m3u8
 #EXTINF:-1,RCTI
 http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,INDOSIAR
