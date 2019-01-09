@@ -21,6 +21,34 @@ http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000
 #EXTINF: -1, SCTV10
 rtmp://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD_3
 
+#EXTINF:-1 tvg-logo="", group-title="TESTING", TEST001
+http://media.bossna-caffe.com/playlist?type=m3u&deviceUser=Jasmina&devicePass=Jasmina
+#EXTINF:-1 tvg-logo="", group-title="TESTING", TEST002
+http://193.200.164.176:8000/get.php?username=yuksel1&password=123456&type=m3u
+#EXTINF:-1 tvg-logo="", group-title="TESTING", TEST003
+http://62.210.245.97:25461/get.php?username=cJM5Yycn1D&password=POKvASqfI7&type=m3u
+#EXTINF:-1 tvg-logo="", group-title="TESTING", TEST004
+http://hyper.de1-eu.com:8000/[email protected][email protected]&type=m3u
+#EXTINF:-1 tvg-logo="", group-title="TESTING", TEST005
+http://iptvpro.premium-tv.org:8789/get.php?username=515151&password=515151&type=m3u
+#EXTINF:-1 tvg-logo="", group-title="TESTING", TEST006
+http://ip.bttv.be:8000/get.php?username=peter-kurdis&password=0E6I1EbhXH&type=m3u
+#EXTINF:-1 tvg-logo="", group-title="TESTING", TEST007
+http://130.185.250.102:8080/get.php?username=keyno&password=rVDWXNxpfB&type=m3u
+#EXTINF:-1 tvg-logo="", group-title="TESTING", TEST008
+http://212.8.243.65:2095/get.php?username=mario11&password=7ULA8op2CK&type=m3u
+#EXTINF:-1 tvg-logo="", group-title="TESTING", TEST009
+http://media.bossna-caffe.com:80/playlist?type=m3u&deviceUser=almir&devicePass=alm
+#EXTINF:-1 tvg-logo="", group-title="TESTING", TEST010
+http://media.bossna-caffe.com:80/playlist?type=m3u&deviceUser=damir&devicePass=dam
+#EXTINF:-1 tvg-logo="", group-title="TESTING", TEST011
+http://primestreams.tv:826/get.php?username=rafasmb&password=23KOaqYLGi&type=m3u
+#EXTINF:-1 tvg-logo="", group-title="TESTING", TEST012
+http://hd.007iptv.com:2095/get.php?username=mario11&password=7ULA8op2CK&type=m3u
+#EXTINF:-1 tvg-logo="", group-title="TESTING", TEST013
+http://vip.groupiptv.com:7000/get.php?username=ismaele&password=ismaele&type=m3u
+#EXTINF:-1 tvg-logo="", group-title="TESTING", TEST014
+http://daddyiptv.com:8000/get.php?username=pay4iptv&password=OovQKViJrC&type=m3u
 
 #EXTINF:-1 group-title="VTV",VTV
 #EXTINF: -1,VTV1 HD
