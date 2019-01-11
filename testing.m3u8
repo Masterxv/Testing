@@ -807,9 +807,9 @@ http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png", group-title="MALAYSIA", TV2 SD
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv3.png", group-title="MALAYSIA", TV3 SD
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbRy-qaHeYrQ2bm4EJvFB5w)/dm/3/x6qp375/s/live-0.m3u8
+https://hls.ustreamix.com/TV3-Malaysia.m3u8?token=d41-d31-b50-b12-9ca-a59-c2f-2e5-2bc-5b4-e87-fe9-a1d-f7e-e73-576-7ba-a6e-a22-7b4-5db-8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv3.png", group-title="MALAYSIA",Tv3 ( Malaysia )
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbRy-qaHeYrQ2bm4EJvFB5w)/dm/3/x6qp375/s/live-2.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbRy-qaHeYrQ2bm4EJvFB5w)/dm/3/x6qp375/s/live-0.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" tvg-name="TV3" group-title="Malaysia",TV3 
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbRy-qaHeYrQ2bm4EJvFB5w)/dm/3/x6qp375/s/live-2.m3u8
 
