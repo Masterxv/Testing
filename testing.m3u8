@@ -1,6 +1,1351 @@
 #EXTM3U
 #EXTINF:0,TV3 SD
 https://hls.ustreamix.com/TV3-Malaysia.m3u8?token=d41-d31-b50-b12-9ca-a59-c2f-2e5-2bc-5b4-e87-fe9-a1d-f7e-e73-576-7ba-a6e-a22-7b4-5db-8
+#EXTM3U
+#EXTINF:-1 tvg-id=TV 1 tvg-name=TV_1 tvg-logo=”TV 1.png” group-title=”RTM”,TV 1
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch001.stream_360p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id=TV 2 tvg-name=TV_2 tvg-logo=”TV 2.png” group-title=”RTM”,TV 2
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id=TV3 tvg-name=TV3 tvg-logo=”TV3.png” group-title=”Media Prima”,TV3
+http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+
+#EXTINF:-1 tvg-id=TVi tvg-name=TVi tvg-logo=”TVi.png” group-title=”RTM”,TVi
+http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=RTM Muzik Aktif tvg-name=RTM_Muzik_Aktif tvg-logo=”muzikaktif.png” group-title=”RTM”,RTM Muzik Aktif
+http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=1News tvg-name=1News tvg-logo=”1News.png” group-title=”RTM”,1News
+http://supercharged.stream.my/live/ngrp:rtm-ch020.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=NTV7 tvg-name=NTV7″ tvg-logo=”NTV7.png” group-title=”Media Prima”,NTV7
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master001.m3u8
+
+#EXTINF:-1 tvg-id=8TV tvg-name=8TV tvg-logo=”8TV.png” group-title=”Media Prima”,8TV
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+
+#EXTINF:-1 tvg-id=TV9 tvg-name=TV_9 tvg-logo=”TV 9.png” group-title=”Media Prima”,TV9
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+
+#EXTINF:-1 tvg-id=HIJAU TV tvg-name=HIJAU TV tvg-logo=”Hijau TV.png” group-title=”Media Prima”, Hijau TV
+rtmp://119.110.96.71/live/1htv
+
+#EXTINF:-1 tvg-id=OASIS tvg-name=OASIS group-title=”ASTRO”, OASIS
+rtmp://live.layarku.tv/live/sz=IMN=oasis634543287956387365618946557239573453
+
+#EXTINF:-1 tvg-id=Astro Awani tvg-name=Astro Awani tvg-logo=”awani.png” group-title=”ASTRO”, Astro Awani
+http://playback01.aotg-video.astro.com.my/AWANI/master.m3u8
+
+#EXTINF:-1 tvg-id=Bernama TV tvg-name=Bernama TV tvg-logo=”bernama.png” group-title=”ASTRO”, Bernama TV
+http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w520879673_b878000_sleng.m3u8
+
+#EXTINF:-1 tvg-id=Channel News Asia tvg-name=Channel News Asia tvg-logo=”CNA.png” group-title=”MediaCorp”, Channel News Asia
+http://edge.mediacorp.swiftserve.com/live/cna/amlst:cnai-pc/media_b1472000_qaGRjb3JlPTIuMTAuMyZnPVdTRkJOTUdORkRYVg==.abst/Seg1-Frag10907?als=12.68,12,1.78,4,1396,2852,25,5,0,74,f,27.31,69.47,t,u,WSFBNMGNFDXV,2.10.3,74&hdcore=2.10.3
+
+#EXTINF:-1 tvg-id=TV Al Hijrah tvg-name=TV Al Hijrah tvg-logo=”alhijrah.png” group-title=”ASTRO”, TV Al Hijrah
+http://stream2.1malaysiaiptv.com:1935/mylive/smil:tvalhijrah_all.smil/media.m3u8
+
+#EXTINF:-1 tvg-id=TV Al Hijrah tvg-name=TV Al Hijrah tvg-logo=”alhijrah.png” group-title=”ASTRO”, TV Al Hijrah
+http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/chunklist_w2043333524_b878000_sleng.m3u8
+
+#EXTINF:-1 tvg-id=Axn Sci-Fi tvg-name=Axn Sci-Fi group-title=”ASTRO”, Axn Sci-Fi
+http://77.91.77.21:6730/?sid=4b54285289daac7298b23fa49406p710
+
+#EXTINF:-1 tvg-id=Animal Planet HD tvg-name=Animal Planet HD group-title=”ASTRO” tvg-logo=animalpl.png, Animal Planet HD
+http://202.75.23.34:1400/live/ch31/02.m3u8
+
+#EXTINF:-1 tvg-id=Nat Geo HD tvg-name=National Geographic HD group-title=”ASTRO” tvg-logo=2204956.png, National Geographic HD
+http://202.75.23.35/live/ch38/03.m3u8
+
+#EXTINF:-1 tvg-id=Nat Geo Wild HD tvg-name=Nat Geo Wild HD group-title=”ASTRO” tvg-logo=5144421.png, Nat Geo Wild HD
+http://202.75.23.35/live/ch39/03.m3u8
+
+#EXTINF:-1 tvg-id=Travel Channel tvg-name=Travel Channel group-title=”ASTRO” tvg-logo=6172282.png, TRAVEL Channel
+http://202.75.23.35:1400/live/ch41/03.m3u8
+
+#EXTINF:-1 tvg-id=One HD tvg-name=One HD tvg-logo=”one.png” group-title=”ASTRO”, One HD
+http://motorsport.hopto.org:8080/
+
+#EXTINF:-1 tvg-id=Fox 1 HD tvg-name=Fox 1 HD tvg-logo=”fox1.png” group-title=”ASTRO”, FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Fox Action HD tvg-name=Fox Action HD tvg-logo=”foxact.png” group-title=”ASTRO”, FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Fox Movies HD tvg-name=Fox Movies HD tvg-logo=”foxm.png” group-title=”ASTRO”, FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=ESPN HD tvg-name=ESPN HD tvg-logo=”espn.png” group-title=”ASTRO”, ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Fox Sport tvg-name=Fox sport tvg-logo=”foxsport.png” group-title=”ASTRO”, FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Fox Sport tvg-name=Fox sport tvg-logo=”foxsport.png” group-title=”ASTRO”, FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=AXN HD tvg-name=AXN HD tvg-logo=”axnhd.png” group-title=”ASTRO”, AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Fox tvg-name=Fox HD tvg-logo=”fox.png” group-title=”ASTRO”, FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=BBC tvg-name=BBC HD tvg-logo=”BBC.png” group-title=”ASTRO”, BBC
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id=Discovery Channel HD tvg-name=Discovery Channel HD tvg-logo=”discoveryHD.png” group-title=”ASTRO”, Discovery Channel HD
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8
+
+#EXTINF:-1 tvg-id=Discovery Science HD tvg-name=Discovery Science HD tvg-logo=”scienceHD.png” group-title=”ASTRO”, Discovery Science HD
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8
+
+#EXTINF:-1 tvg-id=TLC tvg-name=TLC tvg-logo=”TLC.png” group-title=”ASTRO”, TLC
+http://202.75.23.34/live/ch35/01.m3u8
+
+#EXTINF:-1 tvg-id=RTM Parliament tvg-name=RTM_Parliament tvg-logo=”RTM Parlimen.png” group-title=”RTM”,RTM Parliament
+http://supercharged.stream.my/live/ngrp:rtm-ch009.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=TVi tvg-name=TVi tvg-logo=”TVi.png” group-title=”RTM”,TVi
+http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=1News tvg-name=1News tvg-logo=”1News.png” group-title=”RTM”,1News
+http://supercharged.stream.my/live/ngrp:rtm-ch020.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=RTM Muzik Aktif tvg-name=RTM_Muzik_Aktif tvg-logo=”muzikaktif.png” group-title=”RTM”,RTM Muzik Aktif
+http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=RTM Parliament tvg-name=RTM_Parliament tvg-logo=”RTM Parlimen.png” group-title=”RTM”,RTM Parliament
+http://supercharged.stream.my/live/ngrp:rtm-ch009.stream_all/playlist.m3u8
+
+#EXTINF:-1,ITV (UK) [COLOR green] Brasil [/COLOR][COLOR yellow]2014[/COLOR]
+rtmpe://46.246.124.26:1935/redirect playpath=itv swfUrl=http://www.hdcast.org/players.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=itv&vw=600&vh=450&domain=strmh24.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1,ESPN (US) [COLOR green] Brasil [/COLOR][COLOR yellow]2014[/COLOR]
+rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=1 pageUrl=http://thecdn.04stream.com/live=1
+
+#EXTINF:-1,SBS One (Australia) [COLOR green] Brasil [/COLOR][COLOR yellow]2014[/COLOR]
+http://motorsport.hopto.org:8080
+
+#EXTINF:-1,TV2 HD (Norway – HD On Gotham Only) [COLOR green] Brasil [/COLOR][COLOR yellow]2014[/COLOR]
+http://hls.akamai.tv2.no/wzlive/_definst_/amlst:LS1/.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id=FOODNETWORK tvg-name=FOODNETWORK tvg-logo=”FOODNETWORK.png” group-title=”ASTRO”, FOODNETWORK
+http://83.139.104.105/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id=Arirang tvg-name=Arirang tvg-logo=”Arirang.png” group-title=”KOREA”, Arirang
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+
+#EXTINF:-1 tvg-id=MBC tvg-name=MBC tvg-logo=”MBC.png” group-title=”KOREA”, MBC
+rtmp://fms.mbcgn.kr:1935/livepkgr_j_tv playpath=livestream2 swfUrl=http://www.mbcgn.kr/onair/swfs/StrobeMediaPlayback.swf live=1 pageUrl=http://www.mbcgn.kr/onair/player.php?id=TVJJ
+
+#EXTINF:-1 tvg-id=KCTV tvg-name=KCTV tvg-logo=”KCTV.png” group-title=”KOREA”, KCTV
+rtsp://media2.kctvjeju.com/live5
+
+#EXTINF:-1 tvg-id=MetroTv tvg-name=MetroTv tvg-logo=”MetroTv.png” group-title=”Indonesia”, MetroTv
+http://202.75.23.33:1400/live/ch22/01.m3u8
+
+#EXTINF:-1 tvg-id=TRANSTV tvg-name=TRANSTV tvg-logo=”TRANSTV.png” group-title=”Indonesia”, TRANSTV
+http://202.75.23.33:1400/live/ch23/01.m3u8
+
+#EXTINF:-1 tvg-id=TRANS7 tvg-name=TRANS7 tvg-logo=”TRANS7.png” group-title=”Indonesia”, TRANS7
+http://202.75.23.33:1400/live/ch24/01.m3u8
+
+#EXTINF:-1 tvg-id=TVRI tvg-name=TVRI tvg-logo=”TVRI.png” group-title=”Indonesia”, TVRI
+http://202.75.23.33:1400/live/ch25/01.m3u8
+
+#EXTINF:-1 tvg-id=globatv tvg-name=globatv tvg-logo=”globaltv.png” group-title=”Indonesia”, globatv
+http://edge-id.wow.mivo.tv/mivotvjkt/globaltv2_240p/chunklist_w498311651.m3u8
+
+#EXTINF:-1 tvg-id=globatv2 tvg-name=globatv2 tvg-logo=”globaltv.png” group-title=”Indonesia”, globatv2
+http://edge-id.wow.mivo.tv/mivotvjkt/globaltv2_240p/chunklist_w1653294433.m3u8
+
+#EXTINF:-1 tvg-id=RCTI” tvg-name=RCTI tvg-logo=”RCTI.png” group-title=”Indonesia”, RCTI
+rtmp://edge.okeinfo.net/live/mncoke1_512.stream
+
+#EXTINF:-1 tvg-id=ANTV3″ tvg-name=ANTV3 tvg-logo=”ANTV3.png” group-title=”Indonesia”, ANTV3
+rtmp://202.129.216.27:1970/antv/antv3
+
+#EXTINF:-1 tvg-id=TV0NE” tvg-name=TV0NE” tvg-logo=”TV0NE.png” group-title=”Indonesia”, TV0NE
+rtmp://118.97.167.19/jhos/tvone
+
+#EXTINF:-1 tvg-id=RCTV” tvg-name=RCTV” tvg-logo=”RCTV.png” group-title=”Indonesia”, RCTV
+rtmp://edge.okeinfo.net/live/mncoke1_512.stream
+
+#EXTINF:-1 tvg-id=KOMPAS_TV” tvg-name=KOMPAS_TV” tvg-logo=”KOMPAS_TV.png” group-title=”Indonesia”, KOMPAS_TV
+rtmp://202.137.11.52:1935/jakarta/offair.sdp
+
+#EXTINF:-1 $ExtFilter=”tv endon”,indorsiar
+rtmp://119.235.249.58:1935/indostartv/live
+
+#EXTINF:-1, Nickelodeon SD
+http://202.75.23.36:1400/live/ch43/03.m3u8
+
+#EXTINF:0,A&E
+http://unlockyourtv.com:8000/billy/billy/866
+#EXTINF:0,ABC West
+http://unlockyourtv.com:8000/billy/billy/980
+#EXTINF:0,ABC Atlanta
+http://unlockyourtv.com:8000/billy/billy/2264
+#EXTINF:0,ABC Boston
+http://unlockyourtv.com:8000/billy/billy/2266
+#EXTINF:0,ABC Chicago
+http://unlockyourtv.com:8000/billy/billy/2267
+#EXTINF:0,ABC Cleveland
+http://unlockyourtv.com:8000/billy/billy/2268
+#EXTINF:0,ABC 9 Charlotte
+http://unlockyourtv.com:8000/billy/billy/1597
+#EXTINF:0,ABC Connecticut
+http://unlockyourtv.com:8000/billy/billy/2269
+#EXTINF:0,ABC 8 Dallas
+http://unlockyourtv.com:8000/billy/billy/1596
+#EXTINF:0,ABC Denver
+http://unlockyourtv.com:8000/billy/billy/2270
+#EXTINF:0,ABC 7 Detroit
+http://unlockyourtv.com:8000/billy/billy/1823
+#EXTINF:0,ABC Fresno
+http://unlockyourtv.com:8000/billy/billy/2271
+#EXTINF:0,ABC Indianapolis
+http://unlockyourtv.com:8000/billy/billy/2272
+#EXTINF:0,ABC 9 Kansas City
+http://unlockyourtv.com:8000/billy/billy/1598
+#EXTINF:0,ABC Los Angeles
+http://unlockyourtv.com:8000/billy/billy/1618
+#EXTINF:0,ABC Miami
+http://unlockyourtv.com:8000/billy/billy/2274
+#EXTINF:0,ABC Milwaukee
+http://unlockyourtv.com:8000/billy/billy/2275
+#EXTINF:0,ABC Orlando
+http://unlockyourtv.com:8000/billy/billy/2277
+#EXTINF:0,ABC 15 Phoenix
+http://unlockyourtv.com:8000/billy/billy/1592
+#EXTINF:0,ABC Portland
+http://unlockyourtv.com:8000/billy/billy/2280
+#EXTINF:0,ABC Sacramento
+http://unlockyourtv.com:8000/billy/billy/2281
+#EXTINF:0,ABC Salt Lake City
+http://unlockyourtv.com:8000/billy/billy/2283
+#EXTINF:0,ABC San Antonio
+http://unlockyourtv.com:8000/billy/billy/2284
+#EXTINF:0,ABC Seattle
+http://unlockyourtv.com:8000/billy/billy/2287
+#EXTINF:0,ABC St. Louis
+http://unlockyourtv.com:8000/billy/billy/2288
+#EXTINF:0,ABC Washington
+http://unlockyourtv.com:8000/billy/billy/2289
+#EXTINF:0,ABC 7 News (Sarasota)
+http://unlockyourtv.com:8000/billy/billy/1345
+#EXTINF:0,American Heroes Channel
+http://unlockyourtv.com:8000/billy/billy/1760
+#EXTINF:0,AMC
+http://unlockyourtv.com:8000/billy/billy/981
+#EXTINF:0,Animal Planet
+http://unlockyourtv.com:8000/billy/billy/834
+#EXTINF:0,BET East HD
+http://unlockyourtv.com:8000/billy/billy/453
+#EXTINF:0,BET HER
+http://unlockyourtv.com:8000/billy/billy/957
+#EXTINF:0,Bloomberg TV HD
+http://unlockyourtv.com:8000/billy/billy/1356
+#EXTINF:0,Bravo West
+http://unlockyourtv.com:8000/billy/billy/2139
+#EXTINF:0,Cartoon Network East HD
+http://unlockyourtv.com:8000/billy/billy/538
+#EXTINF:0,CBS
+http://unlockyourtv.com:8000/billy/billy/993
+#EXTINF:0,CBS Atlanta
+http://unlockyourtv.com:8000/billy/billy/2290
+#EXTINF:0,CBS Baltimore
+http://unlockyourtv.com:8000/billy/billy/2291
+#EXTINF:0,CBS 4 BOSTON
+http://unlockyourtv.com:8000/billy/billy/1031
+#EXTINF:0,CBS Charlotte
+http://unlockyourtv.com:8000/billy/billy/2292
+#EXTINF:0,CBS Chicago
+http://unlockyourtv.com:8000/billy/billy/1035
+#EXTINF:0,CBS Cleveland
+http://unlockyourtv.com:8000/billy/billy/2293
+#EXTINF:0,CBS Columbus
+http://unlockyourtv.com:8000/billy/billy/2294
+#EXTINF:0,CBS Dallas
+http://unlockyourtv.com:8000/billy/billy/2295
+#EXTINF:0,CBS 4 DENVER
+http://unlockyourtv.com:8000/billy/billy/1034
+#EXTINF:0,CBS 62 DETROIT
+http://unlockyourtv.com:8000/billy/billy/1040
+#EXTINF:0,CBS Greensboro
+http://unlockyourtv.com:8000/billy/billy/2296
+#EXTINF:0,CBS Hartford
+http://unlockyourtv.com:8000/billy/billy/2297
+#EXTINF:0,CBS Houston
+http://unlockyourtv.com:8000/billy/billy/2298
+#EXTINF:0,CBS Jacksonville
+http://unlockyourtv.com:8000/billy/billy/2299
+#EXTINF:0,CBS Kansas City
+http://unlockyourtv.com:8000/billy/billy/2300
+#EXTINF:0,CBS 2 LOS ANGELES
+http://unlockyourtv.com:8000/billy/billy/1036
+#EXTINF:0,CBS Miami
+http://unlockyourtv.com:8000/billy/billy/2301
+#EXTINF:0,CBS Milwaukee
+http://unlockyourtv.com:8000/billy/billy/2302
+#EXTINF:0,CBS Minneapolis
+http://unlockyourtv.com:8000/billy/billy/2303
+#EXTINF:0,CBS Nashville
+http://unlockyourtv.com:8000/billy/billy/2304
+#EXTINF:0,CBS New Orleans
+http://unlockyourtv.com:8000/billy/billy/2305
+#EXTINF:0,CBS 2 NEW YORK
+http://unlockyourtv.com:8000/billy/billy/1037
+#EXTINF:0,CBS Orlando
+http://unlockyourtv.com:8000/billy/billy/2306
+#EXTINF:0,CBS Phoenix
+http://unlockyourtv.com:8000/billy/billy/2307
+#EXTINF:0,CBS Pittsburgh
+http://unlockyourtv.com:8000/billy/billy/2308
+#EXTINF:0,CBS Sacramento
+http://unlockyourtv.com:8000/billy/billy/2309
+#EXTINF:0,CBS San Antonio
+http://unlockyourtv.com:8000/billy/billy/2310
+#EXTINF:0,CBS San Diego
+http://unlockyourtv.com:8000/billy/billy/2311
+#EXTINF:0,CBS San Francisco
+http://unlockyourtv.com:8000/billy/billy/2312
+#EXTINF:0,CBS Seattle
+http://unlockyourtv.com:8000/billy/billy/2313
+#EXTINF:0,CBS Tampa
+http://unlockyourtv.com:8000/billy/billy/2315
+#EXTINF:0,CBSN HD
+http://unlockyourtv.com:8000/billy/billy/611
+#EXTINF:0,Cinemax Action Max HD
+http://unlockyourtv.com:8000/billy/billy/580
+#EXTINF:0,Cinemax East
+http://unlockyourtv.com:8000/billy/billy/2068
+#EXTINF:0,Cinemax West
+http://unlockyourtv.com:8000/billy/billy/2149
+#EXTINF:0,CINEMAX MORE MAX
+http://unlockyourtv.com:8000/billy/billy/1163
+#EXTINF:0,CINEMAX OUTER MAX
+http://unlockyourtv.com:8000/billy/billy/1158
+#EXTINF:0,Cooking Channel
+http://unlockyourtv.com:8000/billy/billy/2142
+#EXTINF:0,COMEDY CENTRAL HD
+http://unlockyourtv.com:8000/billy/billy/539
+#EXTINF:0,COZI
+http://unlockyourtv.com:8000/billy/billy/2143
+#EXTINF:0,CMT HD
+http://unlockyourtv.com:8000/billy/billy/1161
+#EXTINF:0,CNBC
+http://unlockyourtv.com:8000/billy/billy/1100
+#EXTINF:0,CNN HD
+http://unlockyourtv.com:8000/billy/billy/885
+#EXTINF:0,CW
+http://unlockyourtv.com:8000/billy/billy/1148
+#EXTINF:0,Destination America HD
+http://unlockyourtv.com:8000/billy/billy/541
+#EXTINF:0,Disney East HD
+http://unlockyourtv.com:8000/billy/billy/2140
+#EXTINF:0,DISNEY JUNIOR HD
+http://unlockyourtv.com:8000/billy/billy/604
+#EXTINF:0,Disney XD HD
+http://unlockyourtv.com:8000/billy/billy/614
+#EXTINF:0,DISCOVERY HD
+http://unlockyourtv.com:8000/billy/billy/542
+#EXTINF:0,DISCOVERY SCIENCE HD
+http://unlockyourtv.com:8000/billy/billy/543
+#EXTINF:0,DIY Network HD
+http://unlockyourtv.com:8000/billy/billy/1358
+#EXTINF:0,EL REY HD
+http://unlockyourtv.com:8000/billy/billy/835
+#EXTINF:0,Epix
+http://unlockyourtv.com:8000/billy/billy/2069
+#EXTINF:0,FOOD NETWORK HD
+http://unlockyourtv.com:8000/billy/billy/836
+#EXTINF:0,FOX HD
+http://unlockyourtv.com:8000/billy/billy/1112
+#EXTINF:0,Fox News
+http://unlockyourtv.com:8000/billy/billy/1107
+#EXTINF:0,Fox Business Network
+http://unlockyourtv.com:8000/billy/billy/900
+#EXTINF:0,Fox Atlanta
+http://unlockyourtv.com:8000/billy/billy/1239
+#EXTINF:0,FOX Austin
+http://unlockyourtv.com:8000/billy/billy/2316
+#EXTINF:0,FOX 54 Augusta
+http://unlockyourtv.com:8000/billy/billy/1316
+#EXTINF:0,FOX Boston
+http://unlockyourtv.com:8000/billy/billy/1055
+#EXTINF:0,FOX Buffalo
+http://unlockyourtv.com:8000/billy/billy/2319
+#EXTINF:0,FOX Chicago
+http://unlockyourtv.com:8000/billy/billy/2320
+#EXTINF:0,FOX Cleveland
+http://unlockyourtv.com:8000/billy/billy/2321
+#EXTINF:0,FOX Columbus
+http://unlockyourtv.com:8000/billy/billy/2322
+#EXTINF:0,FOX 4 DALLAS
+http://unlockyourtv.com:8000/billy/billy/1058
+#EXTINF:0,FOX 5 D.C.
+http://unlockyourtv.com:8000/billy/billy/1061
+#EXTINF:0,FOX Denver
+http://unlockyourtv.com:8000/billy/billy/2323
+#EXTINF:0,FOX 2 DETROIT
+http://unlockyourtv.com:8000/billy/billy/1052
+#EXTINF:0,FOX 26 HOUSTON
+http://unlockyourtv.com:8000/billy/billy/1056
+#EXTINF:0,FOX Jacksonville
+http://unlockyourtv.com:8000/billy/billy/2327
+#EXTINF:0,FOX Kansas City
+http://unlockyourtv.com:8000/billy/billy/2328
+#EXTINF:0,FOX Los Angeles
+http://unlockyourtv.com:8000/billy/billy/2329
+#EXTINF:0,FOX Miami
+http://unlockyourtv.com:8000/billy/billy/2330
+#EXTINF:0,FOX Milwaukee
+http://unlockyourtv.com:8000/billy/billy/2331
+#EXTINF:0,FOX Minneapolis
+http://unlockyourtv.com:8000/billy/billy/2332
+#EXTINF:0,FOX Nashville
+http://unlockyourtv.com:8000/billy/billy/2333
+#EXTINF:0,FOX 8 NEW ORLEANS
+http://unlockyourtv.com:8000/billy/billy/1066
+#EXTINF:0,FOX New York
+http://unlockyourtv.com:8000/billy/billy/2334
+#EXTINF:0,FOX Orlando
+http://unlockyourtv.com:8000/billy/billy/2336
+#EXTINF:0,FOX Phoenix
+http://unlockyourtv.com:8000/billy/billy/2337
+#EXTINF:0,FOX 29 PHILADELPHIA
+http://unlockyourtv.com:8000/billy/billy/1050
+#EXTINF:0,FOX Sacramento
+http://unlockyourtv.com:8000/billy/billy/2339
+#EXTINF:0,FOX Salt Lake City
+http://unlockyourtv.com:8000/billy/billy/2340
+#EXTINF:0,FOX San Antonio
+http://unlockyourtv.com:8000/billy/billy/2341
+#EXTINF:0,FOX San Francisco
+http://unlockyourtv.com:8000/billy/billy/2343
+#EXTINF:0,FOX Seattle
+http://unlockyourtv.com:8000/billy/billy/2344
+#EXTINF:0,FOX St Louis
+http://unlockyourtv.com:8000/billy/billy/2345
+#EXTINF:0,FOX 13 TAMPA
+http://unlockyourtv.com:8000/billy/billy/1051
+#EXTINF:0,Fuse
+http://unlockyourtv.com:8000/billy/billy/2147
+#EXTINF:0,Fusion
+http://unlockyourtv.com:8000/billy/billy/2148
+#EXTINF:0,FX HD
+http://unlockyourtv.com:8000/billy/billy/1359
+#EXTINF:0,FXM
+http://unlockyourtv.com:8000/billy/billy/1361
+#EXTINF:0,FYI
+http://unlockyourtv.com:8000/billy/billy/2146
+#EXTINF:0,Game Show Network
+http://unlockyourtv.com:8000/billy/billy/962
+#EXTINF:0,HBO
+http://unlockyourtv.com:8000/billy/billy/616
+#EXTINF:0,HBO East
+http://unlockyourtv.com:8000/billy/billy/2070
+#EXTINF:0,HBO West
+http://unlockyourtv.com:8000/billy/billy/2150
+#EXTINF:0,HBO Family
+http://unlockyourtv.com:8000/billy/billy/1417
+#EXTINF:0,HBO ZONE HD
+http://unlockyourtv.com:8000/billy/billy/585
+#EXTINF:0,HALLMARK HD
+http://unlockyourtv.com:8000/billy/billy/550
+#EXTINF:0,HALLMARK MOVIE HD
+http://unlockyourtv.com:8000/billy/billy/569
+#EXTINF:0,HGTV East
+http://unlockyourtv.com:8000/billy/billy/899
+#EXTINF:0,History Channel HD
+http://unlockyourtv.com:8000/billy/billy/1428
+#EXTINF:0,HSN
+http://unlockyourtv.com:8000/billy/billy/1165
+#EXTINF:0,HLN
+http://unlockyourtv.com:8000/billy/billy/2153
+#EXTINF:0,IFC
+http://unlockyourtv.com:8000/billy/billy/961
+#EXTINF:0,INVESTIGATION DISCOVERY HD
+http://unlockyourtv.com:8000/billy/billy/552
+#EXTINF:0,LMN HD
+http://unlockyourtv.com:8000/billy/billy/571
+#EXTINF:0,LIFETIME HD
+http://unlockyourtv.com:8000/billy/billy/570
+#EXTINF:0,MSNBC HD
+http://unlockyourtv.com:8000/billy/billy/576
+#EXTINF:0,NAT GEO HD
+http://unlockyourtv.com:8000/billy/billy/1164
+#EXTINF:0,NAT GEO WILD HD
+http://unlockyourtv.com:8000/billy/billy/573
+#EXTINF:0,NBC
+http://unlockyourtv.com:8000/billy/billy/1611
+#EXTINF:0,NBC Boston
+http://unlockyourtv.com:8000/billy/billy/2543
+#EXTINF:0,NBC Chicago
+http://unlockyourtv.com:8000/billy/billy/2544
+#EXTINF:0,NBC 4 D.C.
+http://unlockyourtv.com:8000/billy/billy/1070
+#EXTINF:0,NBC Dallas
+http://unlockyourtv.com:8000/billy/billy/1073
+#EXTINF:0,NBC 4 LOS ANGELES
+http://unlockyourtv.com:8000/billy/billy/1068
+#EXTINF:0,NBC 6 MIAMI
+http://unlockyourtv.com:8000/billy/billy/1074
+#EXTINF:0,NBC 4 NEW YORK
+http://unlockyourtv.com:8000/billy/billy/1071
+#EXTINF:0,NBC 10 PHILADELPHIA
+http://unlockyourtv.com:8000/billy/billy/1069
+#EXTINF:0,NBC Raleigh
+http://unlockyourtv.com:8000/billy/billy/1616
+#EXTINF:0,NBC 7 SAN DIEGO
+http://unlockyourtv.com:8000/billy/billy/1075
+#EXTINF:0,NICK HD
+http://unlockyourtv.com:8000/billy/billy/555
+#EXTINF:0,Nick Jr. HD
+http://unlockyourtv.com:8000/billy/billy/556
+#EXTINF:0,Nicktoons HD
+http://unlockyourtv.com:8000/billy/billy/1630
+#EXTINF:0,Paramount Network
+http://unlockyourtv.com:8000/billy/billy/1224
+#EXTINF:0,Oxygen
+http://unlockyourtv.com:8000/billy/billy/574
+#EXTINF:0,QVC
+http://unlockyourtv.com:8000/billy/billy/960
+#EXTINF:0,OWN
+http://unlockyourtv.com:8000/billy/billy/1157
+#EXTINF:0,Revolt
+http://unlockyourtv.com:8000/billy/billy/2152
+#EXTINF:0,Showtime East
+http://unlockyourtv.com:8000/billy/billy/586
+#EXTINF:0,Showtime West
+http://unlockyourtv.com:8000/billy/billy/2151
+#EXTINF:0,SHOWTIME 2 HD
+http://unlockyourtv.com:8000/billy/billy/587
+#EXTINF:0,SHOWTIME EXTREME
+http://unlockyourtv.com:8000/billy/billy/1160
+#EXTINF:0,SUNDANCE TV HD
+http://unlockyourtv.com:8000/billy/billy/607
+#EXTINF:0,Starz HD
+http://unlockyourtv.com:8000/billy/billy/1237
+#EXTINF:0,Starz Comedy
+http://unlockyourtv.com:8000/billy/billy/1236
+#EXTINF:0,Starz Encore
+http://unlockyourtv.com:8000/billy/billy/1238
+#EXTINF:0,Starz Encore Western HD
+http://unlockyourtv.com:8000/billy/billy/1325
+#EXTINF:0,SyFy
+http://unlockyourtv.com:8000/billy/billy/904
+#EXTINF:0,TBS East
+http://unlockyourtv.com:8000/billy/billy/560
+#EXTINF:0,TLC
+http://unlockyourtv.com:8000/billy/billy/638
+#EXTINF:0,TNT HD
+http://unlockyourtv.com:8000/billy/billy/561
+#EXTINF:0,Travel Channel
+http://unlockyourtv.com:8000/billy/billy/905
+#EXTINF:0,TRU TV HD
+http://unlockyourtv.com:8000/billy/billy/563
+#EXTINF:0,TV LAND HD
+http://unlockyourtv.com:8000/billy/billy/564
+#EXTINF:0,TV One
+http://unlockyourtv.com:8000/billy/billy/886
+#EXTINF:0,The Weather Channel HD
+http://unlockyourtv.com:8000/billy/billy/578
+#EXTINF:0,USA Network East
+http://unlockyourtv.com:8000/billy/billy/565
+#EXTINF:0,VELOCITY
+http://unlockyourtv.com:8000/billy/billy/1353
+#EXTINF:0,VICELAND HD
+http://unlockyourtv.com:8000/billy/billy/567
+#EXTINF:0,WE TV
+http://unlockyourtv.com:8000/billy/billy/1028
+#EXTINF:0,WGN America HD
+http://unlockyourtv.com:8000/billy/billy/568
+#EXTINF:0,PPV: (Live Events Only)
+http://unlockyourtv.com:8000/billy/billy/2220
+#EXTINF:0,UFC Fight Pass 2
+http://unlockyourtv.com:8000/billy/billy/2221
+#EXTINF:0,PPV: (Only During Events)
+http://unlockyourtv.com:8000/billy/billy/2222
+#EXTINF:0,UFC TV
+http://unlockyourtv.com:8000/billy/billy/2223
+#EXTINF:0,PPV: (Only During Live Events)
+http://unlockyourtv.com:8000/billy/billy/2224
+#EXTINF:0,Bein Sports
+http://unlockyourtv.com:8000/billy/billy/2144
+#EXTINF:0,BTN HD
+http://unlockyourtv.com:8000/billy/billy/579
+#EXTINF:0,CSN CALIFORNIA
+http://unlockyourtv.com:8000/billy/billy/1043
+#EXTINF:0,ESPN HD
+http://unlockyourtv.com:8000/billy/billy/594
+#EXTINF:0,ESPN 2 HD
+http://unlockyourtv.com:8000/billy/billy/597
+#EXTINF:0,Fox Sports 1
+http://unlockyourtv.com:8000/billy/billy/893
+#EXTINF:0,Fox Sports 2
+http://unlockyourtv.com:8000/billy/billy/894
+#EXTINF:0,FOX Collage Sports Atlantic
+http://unlockyourtv.com:8000/billy/billy/1007
+#EXTINF:0,FOX Collage Sports Central
+http://unlockyourtv.com:8000/billy/billy/1008
+#EXTINF:0,FOX Collage Sports Pacific
+http://unlockyourtv.com:8000/billy/billy/1009
+#EXTINF:0,FOX Sports Detroit
+http://unlockyourtv.com:8000/billy/billy/1012
+#EXTINF:0,FOX Sports Midwest
+http://unlockyourtv.com:8000/billy/billy/1021
+#EXTINF:0,FOX Sports North
+http://unlockyourtv.com:8000/billy/billy/1023
+#EXTINF:0,FOX Sports North Plus
+http://unlockyourtv.com:8000/billy/billy/1024
+#EXTINF:0,PPV: (Live Events Only)
+http://unlockyourtv.com:8000/billy/billy/2220
+#EXTINF:0,UFC Fight Pass 2
+http://unlockyourtv.com:8000/billy/billy/2221
+#EXTINF:0,PPV: (Only During Events)
+http://unlockyourtv.com:8000/billy/billy/2222
+#EXTINF:0,UFC TV
+http://unlockyourtv.com:8000/billy/billy/2223
+#EXTINF:0,PPV: (Only During Live Events)
+http://unlockyourtv.com:8000/billy/billy/2224
+#EXTINF:0,Bein Sports
+http://unlockyourtv.com:8000/billy/billy/2144
+#EXTINF:0,BTN HD
+http://unlockyourtv.com:8000/billy/billy/579
+#EXTINF:0,CSN CALIFORNIA
+http://unlockyourtv.com:8000/billy/billy/1043
+#EXTINF:0,ESPN HD
+http://unlockyourtv.com:8000/billy/billy/594
+#EXTINF:0,ESPN 2 HD
+http://unlockyourtv.com:8000/billy/billy/597
+#EXTINF:0,FOX Collage Sports Atlantic
+http://unlockyourtv.com:8000/billy/billy/1007
+#EXTINF:0,FOX Sports North Plus
+http://unlockyourtv.com:8000/billy/billy/1024
+#EXTINF:0,FOX Sports Ohio
+http://unlockyourtv.com:8000/billy/billy/1025
+#EXTINF:0,Fox Sports San Diego
+http://unlockyourtv.com:8000/billy/billy/1015
+#EXTINF:0,FOX Sports SouthWest
+http://unlockyourtv.com:8000/billy/billy/1016
+#EXTINF:0,FOX Sports SUN
+http://unlockyourtv.com:8000/billy/billy/1018
+#EXTINF:0,FOX Sports West
+http://unlockyourtv.com:8000/billy/billy/1019
+#EXTINF:0,Fox Soccer Plus
+http://unlockyourtv.com:8000/billy/billy/1223
+#EXTINF:0,LongHorn Netwrok
+http://unlockyourtv.com:8000/billy/billy/2166
+#EXTINF:0,MAV TV
+http://unlockyourtv.com:8000/billy/billy/1067
+#EXTINF:0,NHL HD 1
+http://unlockyourtv.com:8000/billy/billy/509
+#EXTINF:0,NHL HD 2
+http://unlockyourtv.com:8000/billy/billy/510
+#EXTINF:0,NHL HD 3
+http://unlockyourtv.com:8000/billy/billy/511
+#EXTINF:0,NHL HD 4
+http://unlockyourtv.com:8000/billy/billy/512
+#EXTINF:0,NHL HD 5
+http://unlockyourtv.com:8000/billy/billy/513
+#EXTINF:0,NHL HD 6
+http://unlockyourtv.com:8000/billy/billy/514
+#EXTINF:0,NHL HD 7
+http://unlockyourtv.com:8000/billy/billy/515
+#EXTINF:0,NHL HD 8
+http://unlockyourtv.com:8000/billy/billy/516
+#EXTINF:0,NHL HD 9
+http://unlockyourtv.com:8000/billy/billy/517
+#EXTINF:0,NHL HD 10
+http://unlockyourtv.com:8000/billy/billy/518
+#EXTINF:0,NHL HD 11
+http://unlockyourtv.com:8000/billy/billy/519
+#EXTINF:0,NHL HD 12
+http://unlockyourtv.com:8000/billy/billy/520
+#EXTINF:0,NHL HD 13
+http://unlockyourtv.com:8000/billy/billy/521
+#EXTINF:0,NBA - Atlanta Hawks
+http://unlockyourtv.com:8000/billy/billy/2477
+#EXTINF:0,NBA - Boston Celtics
+http://unlockyourtv.com:8000/billy/billy/2485
+#EXTINF:0,NBA - Brooklyn Nets
+http://unlockyourtv.com:8000/billy/billy/2478
+#EXTINF:0,NBA - Charlotte Hornets
+http://unlockyourtv.com:8000/billy/billy/2486
+#EXTINF:0,NBA - Chicago Bulls
+http://unlockyourtv.com:8000/billy/billy/2487
+#EXTINF:0,NBA - Cleveland Cavaliers
+http://unlockyourtv.com:8000/billy/billy/2479
+#EXTINF:0,NBA - Dallas Mavericks
+http://unlockyourtv.com:8000/billy/billy/2488
+#EXTINF:0,NBA - Denver Nuggets
+http://unlockyourtv.com:8000/billy/billy/2480
+#EXTINF:0,NBA - Detroit Pistons
+http://unlockyourtv.com:8000/billy/billy/2489
+#EXTINF:0,NBA - Golden State Warriors
+http://unlockyourtv.com:8000/billy/billy/2490
+#EXTINF:0,NBA - Houston Rockets
+http://unlockyourtv.com:8000/billy/billy/2491
+#EXTINF:0,NBA - Indiana Pacers
+http://unlockyourtv.com:8000/billy/billy/2492
+#EXTINF:0,NBA - LA Clippers
+http://unlockyourtv.com:8000/billy/billy/2493
+#EXTINF:0,NBA - LA Lakers
+http://unlockyourtv.com:8000/billy/billy/2494
+#EXTINF:0,NBA - Memphis Grizzlies
+http://unlockyourtv.com:8000/billy/billy/2495
+#EXTINF:0,NBA - Miami Heat
+http://unlockyourtv.com:8000/billy/billy/2481
+#EXTINF:0,NBA - Milwaukee Bucks
+http://unlockyourtv.com:8000/billy/billy/2482
+#EXTINF:0,NBA - Minnesota Timberwolves
+http://unlockyourtv.com:8000/billy/billy/2483
+#EXTINF:0,NBA - New Orleans Pelicans
+http://unlockyourtv.com:8000/billy/billy/2496
+#EXTINF:0,NBA - New York Knicks
+http://unlockyourtv.com:8000/billy/billy/2497
+#EXTINF:0,NBA - Oklahoma City Thunder
+http://unlockyourtv.com:8000/billy/billy/2498
+#EXTINF:0,NBA - Orlando Magic
+http://unlockyourtv.com:8000/billy/billy/2499
+#EXTINF:0,NBA - Philadelphia 76ers
+http://unlockyourtv.com:8000/billy/billy/2500
+#EXTINF:0,NBA - Phoenix Suns
+http://unlockyourtv.com:8000/billy/billy/2501
+#EXTINF:0,NBA - Portland Trail Blazers
+http://unlockyourtv.com:8000/billy/billy/2502
+#EXTINF:0,NBA - Sacramento Kings
+http://unlockyourtv.com:8000/billy/billy/2503
+#EXTINF:0,NBA - San Antonio Spurs
+http://unlockyourtv.com:8000/billy/billy/2504
+#EXTINF:0,NBA - Toronto Raptors
+http://unlockyourtv.com:8000/billy/billy/2505
+#EXTINF:0,NBA - Utah Jazz
+http://unlockyourtv.com:8000/billy/billy/2506
+#EXTINF:0,NBA - Washington Wizards
+http://unlockyourtv.com:8000/billy/billy/2484
+#EXTINF:0,MLB Network
+http://unlockyourtv.com:8000/billy/billy/327
+#EXTINF:0,NBA TV
+http://unlockyourtv.com:8000/billy/billy/1426
+#EXTINF:0,NBC Golf
+http://unlockyourtv.com:8000/billy/billy/111
+#EXTINF:0,NBC Sports Network
+http://unlockyourtv.com:8000/billy/billy/986
+#EXTINF:0,NESN
+http://unlockyourtv.com:8000/billy/billy/1108
+#EXTINF:0,NFL Network
+http://unlockyourtv.com:8000/billy/billy/1082
+#EXTINF:0,Outdoor Channel HD
+http://unlockyourtv.com:8000/billy/billy/1609
+#EXTINF:0,Pac 12 Bay Area
+http://unlockyourtv.com:8000/billy/billy/459
+#EXTINF:0,Pac 12 Los Angeles
+http://unlockyourtv.com:8000/billy/billy/460
+#EXTINF:0,Pac 12 Oregon
+http://unlockyourtv.com:8000/billy/billy/463
+#EXTINF:0,PAC 12 Washington
+http://unlockyourtv.com:8000/billy/billy/2263
+#EXTINF:0,Tennis Channel
+http://unlockyourtv.com:8000/billy/billy/1105
+#EXTINF:0,TSN 1 HD
+http://unlockyourtv.com:8000/billy/billy/119
+#EXTINF:0,TSN 2 HD
+http://unlockyourtv.com:8000/billy/billy/1083
+#EXTINF:0,TSN 3 HD
+http://unlockyourtv.com:8000/billy/billy/1084
+#EXTINF:0,TSN 4 HD
+http://unlockyourtv.com:8000/billy/billy/1085
+#EXTINF:0,TSN 5 HD
+http://unlockyourtv.com:8000/billy/billy/115
+#EXTINF:0,SEC NETWORK
+http://unlockyourtv.com:8000/billy/billy/601
+#EXTINF:0,Sports Net 360 HD
+http://unlockyourtv.com:8000/billy/billy/1094
+#EXTINF:0,Sports Net Pacific
+http://unlockyourtv.com:8000/billy/billy/1097
+#EXTINF:0,WWE Network HD
+http://unlockyourtv.com:8000/billy/billy/602
+#EXTINF:0,YES NETWORK
+http://unlockyourtv.com:8000/billy/billy/1166
+#EXTINF:0,NBA 750
+http://unlockyourtv.com:8000/billy/billy/522
+#EXTINF:0,NBA 751
+http://unlockyourtv.com:8000/billy/billy/523
+#EXTINF:0,NBA 752
+http://unlockyourtv.com:8000/billy/billy/524
+#EXTINF:0,NBA 753
+http://unlockyourtv.com:8000/billy/billy/525
+#EXTINF:0,NBA 754
+http://unlockyourtv.com:8000/billy/billy/526
+#EXTINF:0,NBA 755
+http://unlockyourtv.com:8000/billy/billy/527
+#EXTINF:0,NBA 756
+http://unlockyourtv.com:8000/billy/billy/528
+#EXTINF:0,NBA 757
+http://unlockyourtv.com:8000/billy/billy/529
+#EXTINF:0,NBA 758
+http://unlockyourtv.com:8000/billy/billy/530
+#EXTINF:0,NBA 759
+http://unlockyourtv.com:8000/billy/billy/531
+#EXTINF:0,NBA 760
+http://unlockyourtv.com:8000/billy/billy/532
+#EXTINF:0,NBA 761
+http://unlockyourtv.com:8000/billy/billy/533
+#EXTINF:0,NBA 762
+http://unlockyourtv.com:8000/billy/billy/2409
+#EXTINF:0,NBA 764
+http://unlockyourtv.com:8000/billy/billy/2411
+#EXTINF:0,NBA 765
+http://unlockyourtv.com:8000/billy/billy/2412
+#EXTINF:0,NBA 763
+http://unlockyourtv.com:8000/billy/billy/2410
+#EXTINF:0,NFL 1
+http://unlockyourtv.com:8000/billy/billy/2162
+#EXTINF:0,NFL 2
+http://unlockyourtv.com:8000/billy/billy/2163
+#EXTINF:0,NFL 3
+http://unlockyourtv.com:8000/billy/billy/2164
+#EXTINF:0,NFL 4
+http://unlockyourtv.com:8000/billy/billy/2165
+#EXTINF:0,NFL 5
+http://unlockyourtv.com:8000/billy/billy/2167
+#EXTINF:0,NFL 6
+http://unlockyourtv.com:8000/billy/billy/2168
+#EXTINF:0,NFL 7
+http://unlockyourtv.com:8000/billy/billy/2169
+#EXTINF:0,NFL 8
+http://unlockyourtv.com:8000/billy/billy/2170
+#EXTINF:0,NFL 9
+http://unlockyourtv.com:8000/billy/billy/2171
+#EXTINF:0,NFL 10 Broncos Vs Chargers
+http://unlockyourtv.com:8000/billy/billy/2172
+#EXTINF:0,NFL 11 Eagles at Saints
+http://unlockyourtv.com:8000/billy/billy/2173
+#EXTINF:0,NFL 12 Vikings at Bears
+http://unlockyourtv.com:8000/billy/billy/2174
+#EXTINF:0,NFL 13 Chiefs at Rams
+http://unlockyourtv.com:8000/billy/billy/2175
+#EXTINF:0,NFL 14 Giaints at 49ers
+http://unlockyourtv.com:8000/billy/billy/2176
+#EXTINF:0,NFL Monday Night Football
+http://unlockyourtv.com:8000/billy/billy/2177
+#EXTINF:0,NFL RedZone 2
+http://unlockyourtv.com:8000/billy/billy/2260
+#EXTINF:0,MLB 721/722
+http://unlockyourtv.com:8000/billy/billy/2248
+#EXTINF:0,MLB 723/724
+http://unlockyourtv.com:8000/billy/billy/2249
+#EXTINF:0,MLB 725
+http://unlockyourtv.com:8000/billy/billy/2250
+#EXTINF:0,MLB 727
+http://unlockyourtv.com:8000/billy/billy/2251
+#EXTINF:0,MLB 729
+http://unlockyourtv.com:8000/billy/billy/2252
+#EXTINF:0,MLB 731
+http://unlockyourtv.com:8000/billy/billy/2253
+#EXTINF:0,MLB 733
+http://unlockyourtv.com:8000/billy/billy/2254
+#EXTINF:0,MLB 735
+http://unlockyourtv.com:8000/billy/billy/2255
+#EXTINF:0,MLB 737
+http://unlockyourtv.com:8000/billy/billy/2256
+#EXTINF:0,MLB 739
+http://unlockyourtv.com:8000/billy/billy/2257
+#EXTINF:0,MLB 743
+http://unlockyourtv.com:8000/billy/billy/2258
+#EXTINF:0,NFL - Arizona-Cardinals
+http://unlockyourtv.com:8000/billy/billy/2346
+#EXTINF:0,NFL - Atlanta-Falcons
+http://unlockyourtv.com:8000/billy/billy/2347
+#EXTINF:0,NFL - Baltimore-Ravens
+http://unlockyourtv.com:8000/billy/billy/2348
+#EXTINF:0,NFL - Buffalo-Bills
+http://unlockyourtv.com:8000/billy/billy/2349
+#EXTINF:0,NFL - Carolina-Panthers
+http://unlockyourtv.com:8000/billy/billy/2350
+#EXTINF:0,NFL - Chicago-Bears
+http://unlockyourtv.com:8000/billy/billy/2351
+#EXTINF:0,NFL - Cincinnati-Bengals
+http://unlockyourtv.com:8000/billy/billy/2352
+#EXTINF:0,NFL - Cleveland-Browns
+http://unlockyourtv.com:8000/billy/billy/2353
+#EXTINF:0,NFL - Dallas-Cowboys
+http://unlockyourtv.com:8000/billy/billy/2354
+#EXTINF:0,NFL - Denver-Broncos
+http://unlockyourtv.com:8000/billy/billy/2355
+#EXTINF:0,NFL - Detroit-Lions
+http://unlockyourtv.com:8000/billy/billy/2356
+#EXTINF:0,NFL - Green-Bay-Packers
+http://unlockyourtv.com:8000/billy/billy/2357
+#EXTINF:0,NFL - Houston-Texans
+http://unlockyourtv.com:8000/billy/billy/2358
+#EXTINF:0,NFL - Indianapolis-Colts
+http://unlockyourtv.com:8000/billy/billy/2359
+#EXTINF:0,NFL - Jacksonville-Jaguars
+http://unlockyourtv.com:8000/billy/billy/2360
+#EXTINF:0,NFL - Kansas-City-Chiefs
+http://unlockyourtv.com:8000/billy/billy/2361
+#EXTINF:0,NFL - Los-Angeles-Chargers
+http://unlockyourtv.com:8000/billy/billy/2362
+#EXTINF:0,NFL - Los-Angeles-Ram
+http://unlockyourtv.com:8000/billy/billy/2363
+#EXTINF:0,NFL - Miami-Dolphins
+http://unlockyourtv.com:8000/billy/billy/2364
+#EXTINF:0,NFL - Minnesota-Vikings
+http://unlockyourtv.com:8000/billy/billy/2365
+#EXTINF:0,NFL - New-England-Patriots
+http://unlockyourtv.com:8000/billy/billy/2366
+#EXTINF:0,NFL - New-Orleans-Saints
+http://unlockyourtv.com:8000/billy/billy/2367
+#EXTINF:0,NFL - New-York-Giants
+http://unlockyourtv.com:8000/billy/billy/2368
+#EXTINF:0,NFL - New-York-Jets
+http://unlockyourtv.com:8000/billy/billy/2369
+#EXTINF:0,NFL - Oakland-Raiders
+http://unlockyourtv.com:8000/billy/billy/2370
+#EXTINF:0,NFL - Philadelphia-Eagles
+http://unlockyourtv.com:8000/billy/billy/2371
+#EXTINF:0,NFL - Pittsburgh-Steelers
+http://unlockyourtv.com:8000/billy/billy/2372
+#EXTINF:0,NFL - San-Francisco-49ers
+http://unlockyourtv.com:8000/billy/billy/2373
+#EXTINF:0,NFL - Seattle-Seahawks
+http://unlockyourtv.com:8000/billy/billy/2374
+#EXTINF:0,NFL - Tampa-Bay-Buccaneers
+http://unlockyourtv.com:8000/billy/billy/2375
+#EXTINF:0,NFL - Tennessee-Titans
+http://unlockyourtv.com:8000/billy/billy/2376
+#EXTINF:0,NFL - Washington-Redskins
+http://unlockyourtv.com:8000/billy/billy/2377
+#EXTINF:0,NHL: ANAHEIM DUCKS
+http://unlockyourtv.com:8000/billy/billy/2378
+#EXTINF:0,NHL: ARIZONA COYOTES
+http://unlockyourtv.com:8000/billy/billy/2379
+#EXTINF:0,NHL: BOSTON BRUINS
+http://unlockyourtv.com:8000/billy/billy/2380
+#EXTINF:0,NHL: BUFFALO SABRES
+http://unlockyourtv.com:8000/billy/billy/2381
+#EXTINF:0,NHL: CALGARY FLAMES
+http://unlockyourtv.com:8000/billy/billy/2382
+#EXTINF:0,NHL: CAROLINA HURRICANES
+http://unlockyourtv.com:8000/billy/billy/2383
+#EXTINF:0,NHL: CHICAGO BLACKHAWKS
+http://unlockyourtv.com:8000/billy/billy/2384
+#EXTINF:0,NHL: COLORADO AVALANCHES
+http://unlockyourtv.com:8000/billy/billy/2385
+#EXTINF:0,NHL: COLUMBUS BLUE JACKETS
+http://unlockyourtv.com:8000/billy/billy/2386
+#EXTINF:0,NHL: DALLAS STARS
+http://unlockyourtv.com:8000/billy/billy/2387
+#EXTINF:0,NHL: DETROIT REDWINGS
+http://unlockyourtv.com:8000/billy/billy/2388
+#EXTINF:0,NHL: EDMONTON OILERS
+http://unlockyourtv.com:8000/billy/billy/2389
+#EXTINF:0,NHL: FLORIDA PANTHERS
+http://unlockyourtv.com:8000/billy/billy/2390
+#EXTINF:0,NHL: LOS ANGELES KINGS
+http://unlockyourtv.com:8000/billy/billy/2391
+#EXTINF:0,NHL: MINNESOTA WILDS
+http://unlockyourtv.com:8000/billy/billy/2392
+#EXTINF:0,NHL: MONTREAL CANADIENS
+http://unlockyourtv.com:8000/billy/billy/2393
+#EXTINF:0,NHL: NASHVILLE PREDATORS
+http://unlockyourtv.com:8000/billy/billy/2394
+#EXTINF:0,NHL: NEW JERSEY DEVILS
+http://unlockyourtv.com:8000/billy/billy/2395
+#EXTINF:0,NHL: NEW YORK ISLANDERS
+http://unlockyourtv.com:8000/billy/billy/2396
+#EXTINF:0,NHL: NEW YORK RANGERS
+http://unlockyourtv.com:8000/billy/billy/2397
+#EXTINF:0,NHL: OTTAWA SENATORS
+http://unlockyourtv.com:8000/billy/billy/2398
+#EXTINF:0,NHL: PHILIDELPHIA FLYERS
+http://unlockyourtv.com:8000/billy/billy/2399
+#EXTINF:0,NHL: PITTSBURGH PENGUINS
+http://unlockyourtv.com:8000/billy/billy/2400
+#EXTINF:0,NHL: SAN JOSE SHARKS
+http://unlockyourtv.com:8000/billy/billy/2401
+#EXTINF:0,NHL: ST LOUIS BLUES
+http://unlockyourtv.com:8000/billy/billy/2402
+#EXTINF:0,NHL: TAMPA BAY LIGHTNING
+http://unlockyourtv.com:8000/billy/billy/2403
+#EXTINF:0,NHL: TORONTO MAPLE LEAFS
+http://unlockyourtv.com:8000/billy/billy/2404
+#EXTINF:0,NHL: VANCOUVER CANUCKS
+http://unlockyourtv.com:8000/billy/billy/2405
+#EXTINF:0,NHL: VEGAS GOLDEN KNIGHTS
+http://unlockyourtv.com:8000/billy/billy/2406
+#EXTINF:0,NHL: WASHINGTON CAPITALS
+http://unlockyourtv.com:8000/billy/billy/2407
+#EXTINF:0,NHL: WINNEPEG JETS
+http://unlockyourtv.com:8000/billy/billy/2408
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png", group-title="MALAYSIA", TV1 SD
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png", group-title="MALAYSIA", TV2 SD
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv3.png", group-title="MALAYSIA", TV3 SD
+https://hls.ustreamix.com/TV3-Malaysia.m3u8?token=d41-d31-b50-b12-9ca-a59-c2f-2e5-2bc-5b4-e87-fe9-a1d-f7e-e73-576-7ba-a6e-a22-7b4-5db-8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv3.png", group-title="MALAYSIA",Tv3 ( Malaysia )
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbRy-qaHeYrQ2bm4EJvFB5w)/dm/3/x6qp375/s/live-0.m3u8
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" tvg-name="TV3" group-title="Malaysia",TV3 
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbRy-qaHeYrQ2bm4EJvFB5w)/dm/3/x6qp375/s/live-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png", group-title="MALAYSIA", TV1 SD1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png", group-title="MALAYSIA", TV2 SD2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv3.png", group-title="MALAYSIA", TV3 SD3
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbRy-qaHeYrQ2bm4EJvFB5w)/dm/3/x6qp375/s/live-2.m3u8
+#EXTINF: -1, SCTV5
+http://vtsstr4.sctv.vn:1935/testlive/SCTV5_SD.smil/chunklist_w411708802_b2292000.m3u8
+#EXTINF: -1, SCTV10
+rtmp://vtsstr4.sctv.vn:1935/testlive1/sctv10_SD_3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png", group-title="MALAYSIA", Bernama TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png", group-title="MALAYSIA", TVi SD
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1,Ntv7 ( Malaysia )
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWLu9EXqQGd5_5JNsJlIYLE)/dm/3/x6qp6ou/live-4.m3u8
+#EXTINF:-1,8tv ( Malaysia )
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSKLN3zTsh476ZOI2TWP4Qk)/dm/3/x6qud17/s/live-2.m3u8
+#EXTINF:-1,Tv9 ( Malaysia )
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTdazW1N537n-9IwxnG1vYE)/dm/3/x6qqja6/live-4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png", group-title="MALAYSIA", 1NEWS SD
+http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png", group-title="MALAYSIA", Bernama TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+#EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png", tvg-name="AWANI",  group-title="MALAYSIA",AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/parlimen.png", tvg-name="PARLIMEN TV",  group-title="MALAYSIA",PARLIMEN TV
+http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", BERNAMA NEWS CHANNEL
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", RTM TV OKEY
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:0, group-title="MALAYSIA", BERNAMA NEWS CHANNEL
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+#EXTINF:0, group-title="THAILAND",  MEDIACORP OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-7-my.png" tvg-name="NTV7" group-title="Malaysia",NTV7 http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8-tv-my.png" tvg-name="8TV" group-title="Malaysia",8TV http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png" tvg-name="TV9" group-title="Malaysia",TV9 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/tvi.png" tvg-name="TVi" group-title="Malaysia",TVi http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1447383576&myTokenPrefixhash=XKoRT1ec-z3uh6LOWz7P4p007myM_0_j50EkSPjrAN0=
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/galaksi.png" tvg-name="MUZIK AKTIF" group-title="Malaysia",MUZIK AKTIF http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1447383600&myTokenPrefixhash=Z1byR6tnMlsGSd4bGmMHXK3waY5Kh2mW8iKygOfr8W4=
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/alhijrah.png" tvg-name="TV Al-Hijrah" group-title="Malaysia",TV Al-Hijrah http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
+
+#EXTINF:-1, RIA http://www.layarku.tv/media/riav6.m3u8
+
+#EXTINF:-1, KBS WORLD rtmp://118.97.183.196/jhos//kbs
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/awani.png" tvg-name="AWANI" group-title="Malaysia",AWANI rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://myiptv.site40.net/logos/awani.png" tvg-name="AWANI2" group-title="Malaysia",AWANI2
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/flag/az/my.png" group-title="Malaysia",MALAYSIA TV
+ 
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png" group-title="Malaysia",TV1
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch001.smil/chunklist_w1783764146_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9UEdpQ1VRNDZNOWpWaUc3Y2NkRlhXMFJJaU10M2QxenpqZkhTSF82V1pJYz0=.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png" group-title="Malaysia",TV2
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch002.smil/chunklist_w1010690023_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9Zm5HQUZ3anhwajFES3Y3Zk53MGZ0V01jVUpCRThLQk9jMWdIaE55Ynl0RT0=.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" group-title="Malaysia",TV3 
+http://sg.layarku.tv:1935/edge/149_323_live/chunklist_w154676771.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-7-my.png" group-title="Malaysia",NTV7
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master002.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8-tv-my.png" group-title="Malaysia",8TV
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png" group-title="Malaysia",TV9
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tv_alhijrah.png" group-title="Malaysia",AL-HIJRAH
+http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="Malaysia",ASTRO RIA
+http://penang.layarku.tv/edge/149_327_live/chunklist_w1095343200.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_awani.png" group-title="Malaysia",ASTRO AWANI
+rrtmp://cp160334.live.edgefcs.net/live/AstroAwani24x7_3@74937
+ 
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tvi_my.png" group-title="Malaysia",TVI
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch003.smil/chunklist_w1793954041_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9TnpEanpxS1lkQnp6NzhoeWZIZTRaaGV2MXlrVHF1cVRtcWNMU0I5alNIQT0=.m3u8
+ 
+#EXTINF:0 tvg-logo="",MUSIK AKTIF
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch004.smil/chunklist_w373988419_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9cG1yUmtrLUpfUF9TVjNjYkR3Rm1mSzRvZzFKdnF4MlBwaVctbEpLSnQtVT0=.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_parlimen_my.png" group-title="Malaysia",PARLIMEN TV
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch007.smil/chunklist_w10647817_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9bVQ3blJLc1dSSGhrV2pPWFVLcWZkZUE1aGZUcHlvV2dQRUk0R0ZhUWhZYz0=.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/num/1_news_my.png" group-title="Malaysia",1 NEWS
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch006.smil/chunklist_w391643897_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9TmpVYkJvMi1ZODhVQm9vd29ZcVo5UVUwakRjbm9uM19WamZvUlY5UkE1cz0=.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/bernama_tv.png" group-title="Malaysia",BERNAMA TV
+http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/mm/mara_tv_my.png" group-title="Malaysia",MARA TV
+http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8
+
+#EXTINF:-1,RCTI
+http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,INDOSIAR
+http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,SCTV
+http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,GLOBAL TV
+http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC TV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS 7
+http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS TV
+http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RTV
+http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,BERITA SATU
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,JAKTV 
+http://202.80.222.130/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV9 
+http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,DAAI TV 
+http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,JAK tv
+http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285613679_b384000_sleng.m3u8
+#EXTINF:-1,TVRI 
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ANTV 
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,METRO TV 
+http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,NET TV 
+http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,I News
+http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png", group-title="MALAYSIA", TV1 SD
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png", group-title="MALAYSIA", TV2 SD
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png", group-title="MALAYSIA", Bernama TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png", group-title="MALAYSIA", TVi SD
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,Tv3 ( Malaysia )
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZwsj-iwd4Z242qGwsGVrOc)/dm/3/x6qp375/live-4.m3u8
+#EXTINF:-1,Ntv7 ( Malaysia )
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWLu9EXqQGd5_5JNsJlIYLE)/dm/3/x6qp6ou/live-4.m3u8
+#EXTINF:-1,8tv ( Malaysia )
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSKLN3zTsh476ZOI2TWP4Qk)/dm/3/x6qud17/s/live-2.m3u8
+#EXTINF:-1,Tv9 ( Malaysia )
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTdazW1N537n-9IwxnG1vYE)/dm/3/x6qqja6/live-4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png", group-title="MALAYSIA", 1NEWS SD
+http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png", group-title="MALAYSIA", Bernama TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+#EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png", tvg-name="AWANI",  group-title="MALAYSIA",AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/parlimen.png", tvg-name="PARLIMEN TV",  group-title="MALAYSIA",PARLIMEN TV
+http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", BERNAMA NEWS CHANNEL
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", RTM TV OKEY
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:0, group-title="MALAYSIA", BERNAMA NEWS CHANNEL
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+#EXTINF:0, group-title="THAILAND",  MEDIACORP OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+
+#EXTINF:-1,Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0, group-title="TV LOKAL INDONESIA", TV TPI TJ.PINANG
+http://122.248.32.234:1935/ch28/myStream/live.m3u8
+#EXTINF:-1,Madutv
+https://5bb648ab35ae7.streamlock.net/madufm/live/chunklist_w413406651.m3u8
+#EXTINF:-1,Padangtv
+https://video2.onlivestreaming.net/robot/livestream/chunks.m3u8
+#EXTINF:-1,Jpmtv
+http://122.248.43.138:1935/jpm/myStream/chunklist_w1243553039.m3u8
+#EXTINF:-1,JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1543398369.m3u8
+#EXTINF:-1,Bengkulu TV
+http://122.248.43.138:1935/ch3/myStream/chunklist_w1948737712.m3u8
+#EXTINF:-1,RiauTV
+http://122.248.43.138:1935/ch4/myStream/chunklist_w1486769853.m3u8
+#EXTINF:-1,LampungTV
+http://122.248.32.234:1935/ch17/myStream/chunklist_w1894495616.m3u8
+#EXTINF:-1,BantenTV
+http://122.248.32.234:1935/ch22/myStream/chunklist_w2023449747.m3u8
+#EXTINF:-1,Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b906000.m3u8
+#EXTINF:0, group-title="TV LOKAL INDONESIA", BBS TV SURABAYA
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+#EXTINF:-1,Sakti TV
+http://live.sakti.tv/saktitv/livestream/chunks.m3u8
+#EXTINF:-1,Batam TV
+http://122.248.43.138:1935/ch5/myStream/chunklist_w1061316119.m3u8
+#EXTINF:-1,BTV Balikpapan
+http://122.248.43.138:1935/ch10/myStream/chunklist_w1285540539.m3u8
+#EXTINF:-1,RCTV Cirebon
+http://122.248.43.138:1935/ch9/myStream/chunklist_w1715892576.m3u8
+#EXTINF:-1,PAL TV Palembang
+http://122.248.43.138:1935/ch7/myStream/chunklist_w1888578000.m3u8
+#EXTINF:-1,PrimaTV Banjarmasin
+http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8
+#EXTINF:-1,BMS TV Banyumas
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+#EXTINF:-1,PKTV Bontang
+https://5bb648ab35ae7.streamlock.net/pktv/live/chunklist_w1489236449.m3u8
+#EXTINF:-1,Sultra TV Kendari
+http://wowza58.indostreamserver.com:1935/sultratv/live/chunklist_w2061490763.m3u8
+#EXTINF:-1,Citra LamonganTV
+http://122.248.32.234:1935/ch28/myStream/chunklist_w1538770118.m3u8
+#EXTINF:-1,Radar TV Tasikmalaya
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/chunks.m3u8
+#EXTINF:-1,TATV
+http://flash1.broadcastindo.net/tatv/live.sdp/chunks.m3u8
+#EXTINF:-1,Duta TV
+http://flash1.broadcastindo.net/dutatv/live.sdp/chunks.m3u8
+#EXTINF:-1,Adi TV
+http://aditv.onlivestreaming.net/aditv/livestream/chunks.m3u8
+#EXTINF:-1,IN TV
+https://t5-id-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_288p/chunks.m3u8
+#EXTINF:-1,Elshinta TV
+http://rr2.dens.tv/s/s10/index1.m3u8
+#EXTINF:-1,BayuTV
+http://wms.klikhost.com/bayutv/live/chunklist.m3u8
+#EXTINF:-1,Sultra TV
+http://wowza58.indostreamserver.com:1935/sultratv/live/chunklist_w747725692.m3u8
+#EXTINF:-1,TV KU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1,SBO Surabaya
+http://stream.sbo.co.id:1935/sbotv/live/chunklist_w240543670.m3u8
+#EXTINF:-1,RRI Net
+http://36.89.47.217:11935/rrinet/live/chunklist_w571922664.m3u8
+#EXTINF:-1,CTV Banten
+http://103.23.201.170:1935/live/livestream/chunklist.m3u8
+#EXTINF:-1,SBC TV
+http://wowza58.indostreamserver.com:1935/langoday/live/chunklist_w614309277.m3u8
+#EXTINF:-1,Jember TV
+http://wowza60.indostreamserver.com:1935/jember1tv/live/chunklist_w2083260429.m3u8
+#EXTINF:-1,(ID) INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF:-1,(ID) NADA MUSLIM TV
+http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+#EXTINF:-1,(ID) NUSANTARA TV
+http://103.77.106.171:1935/live/liventv1/playlist.m3u8
+#EXTINF:-1,(ID) PAYTREN TV
+http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
+
+#EXTINF:-1,TVRI Budaya 
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Sumbar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Yogjakarta
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIyogyakarta)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Lampung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Palembang
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Riau
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Medan
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI JawaTimur
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Jawa Tengah
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Bali
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Papua
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Bandung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Sulut Manado
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI NTT Kupang
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInttkupang)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI NTB Mataram
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIntbmataram)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRISultengPalu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Gorontalo
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIgorontalo)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Maluku Ambon
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRImalukuambon)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI KaltimSamarinda
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRIKaltengPalangkaraya
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalteng)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Kalbar Pontianak
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Bengkulu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Jambi
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Aceh
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIaceh)/Stream(03)/index.m3u8
+#EXTINF:-1,(ID) TVR PARLEMEN
+http://103.16.220.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1,RodjaTV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:-1,Wesal TV
+http://119.235.249.60:1935/wesaltv/live/chunklist_w787715950.m3u8
+#EXTINF:-1,Salam TV
+http://wowza60.beetecmedia.com:1935/salamtv/live/chunklist_w1868921570.m3u8
+#EXTINF:-1,Surau TV
+http://119.235.249.60:1935/surautv/live/chunklist_w1568253375.m3u8
+#EXTINF:-1,Niaga TV
+http://119.235.249.58:1935/niagatv/live/chunklist_w719508081.m3u8
+#EXTINF:-1,Ashiil TV Pekanbaru
+http://119.82.232.89:1935/ashiiltv/live2/chunklist_w401197439.m3u8
+#EXTINF:-1,AL Iman TV Surabaya
+http://vs.suaraaliman.com:1935/aliman/HD/chunklist_w646655584.m3u8
+#EXTINF:-1,Puldapii TV Bekasi
+http://178.128.49.255/mobile/web.m3u8
+#EXTINF:-1,Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1,AswajaTV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+#EXTINF:-1,Madani TV
+http://stream.asianastream.com:1935/live/ngrp:madanitv_all/chunklist_w1830558049_b1431072.m3u8
+#EXTINF:-1,I am tv
+https://5b61b5dbb9219.streamlock.net:1978/tes/1/chunklist_w2145952831.m3u8
+#EXTINF:-1,(ID) SALING SAPA
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF:-1,(ID) TAHFIDZ TV
+rtmp://119.235.249.58:1935/tahfidztv/live
+#EXTINF:-1,(ID) TV MU
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv
 #EXTINF:0,A&E
 http://unlockyourtv.com:8000/billy/billy/866
 #EXTINF:0,ABC West
