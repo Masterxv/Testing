@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,TV3 SD
+https://hls.ustreamix.com/TV3-Malaysia.m3u8?token=d41-d31-b50-b12-9ca-a59-c2f-2e5-2bc-5b4-e87-fe9-a1d-f7e-e73-576-7ba-a6e-a22-7b4-5db-8
 #EXTINF:0,A&E
 http://unlockyourtv.com:8000/billy/billy/866
 #EXTINF:0,ABC West
