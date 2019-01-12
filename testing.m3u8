@@ -11,15 +11,13 @@ http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
 http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/ntv7.png" group-title="MALAYSIA", NTV7 SD
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU2UFryhaQqgsplJ75d5HXk)/dm/3/x6qp6ou/s/live-2.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv8.png" group-title="MALAYSIA", 8TV SD1
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/8tv.png" group-title="MALAYSIA", 8TV SD1
 https://stream-03.sv6.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXcj7XLEG7CDRDRyPzbpJwc)/dm/3/x6qud17/s/live-1.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv8.png" group-title="MALAYSIA", 8TV SD2
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/8tv.png" group-title="MALAYSIA", 8TV SD2
 https://stream-03.sv6.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXcj7XLEG7CDRDRyPzbpJwc)/dm/3/x6qud17/s/live-2.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv9.png" group-title="MALAYSIA", TV9 SD
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHa3bXJq33AAkw--4eQwF3nA)/dm/3/x6qqja6/s/live-0.m3u8
-#EXTINF:0 tvg-id=TV9 tvg-name=TV_9 tvg-logo="TV 9.png" group-title="MALAYSIA",TV9
-http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
-tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_awani.png" group-title="MALAYSIA",ASTRO AWANI
+#EXTINF:0 tvg-id="" tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_awani.png" group-title="MALAYSIA",ASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
 
 #EXTINF:0,A&E
