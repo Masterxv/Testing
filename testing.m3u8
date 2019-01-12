@@ -18,17 +18,15 @@ https://stream-03.sv6.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXcj7XLEG7CDRDRyPz
 #EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv9.png", group-title="MALAYSIA", TV9 SD
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHa3bXJq33AAkw--4eQwF3nA)/dm/3/x6qqja6/s/live-0.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_awani.png", group-title="MALAYSIA", ASTRO AWANI
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png", tvg-name="AWANI",  group-title="MALAYSIA",AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png", group-title="MALAYSIA", Bernama TV
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png", group-title="MALAYSIA", TVi SD
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png", group-title="MALAYSIA", 1NEWS SD
 http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png", group-title="MALAYSIA", Bernama TV
-http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
-#EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png", tvg-name="AWANI",  group-title="MALAYSIA",AWANI
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/parlimen.png", tvg-name="PARLIMEN TV",  group-title="MALAYSIA",PARLIMEN TV
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 #EXTINF:0, group-title="MALAYSIA", BERNAMA NEWS CHANNEL
